@@ -1,0 +1,428 @@
+Hello everyone!:wave: Here are the topics we discussed today:
+DATE: July 28, 2025 (Day 1)
+Topics:
+PHP OOP
+Classes
+Properties and Methods
+Access Modifier (public and private)
+Setters and Getters
+Single Setters
+Multiple Setters
+Objects
+Constructor
+Next:
+Inheritance
+PHP + MySQL
+
+
+Hello everyone!:wave: Here are the topics we discussed today:
+DATE: July 29, 2025 (Day 2)
+Topics:
+Inheritance
+require_once
+using extends keyword
+protected (access modifier)
+overriding
+polymorphism
+Next:
+PHP + MySQL
+create a web application (code-along)
+Fare Activity Complete Code:
+Note: Please unzip the zipped file first to check the code.
+
+
+Hi everyone! :blush: Just a heads-up—tomorrow after checking your assignment/activity, we’ll have a code-along discussion where we’ll start creating a web application using PHP OOP.
+Here’s the video
+
+
+Hello everyone!:wave: Here are the topics we discussed today:
+DATE: July 30, 2025 (Day 3)
+Topics:
+PHP + MySQL (code-along)
+The-Company
+created 3 new folders:
+actions - collect the data from the form
+classes - the logic of the app (CRUD)
+views - User Interface (HTML, Bootstrap)
+created database and users table in phpMyAdmin
+created Database.php
+uses mysqli()
+$conn
+created User.php
+created register
+created views/register.php
+created actions/register.php
+created store() method inside User.php
+created login
+created views/index.php
+created actions/login.php
+created login() method inside User.php
+In progress:
+PHP + MySQL (code-along)
+The-Company
+
+
+Hello everyone!:wave: Here are the topics we discussed today:
+DATE: July 31, 2025 (Day 4)
+Topics:
+PHP + MySQL (code-along)
+The-Company
+created dashboard
+created views/dashboard.php
+created getAllUsers() method to get all users
+displayed action buttons
+created edit-user
+created views/edit-user.php
+created actions/edit-user.php
+created getUser() method to get the logged in user
+created update() method
+move_uploaded_file() for photo
+In progress:
+PHP + MySQL (code-along)
+The-Company
+
+
+Reminder: After completing The-Company application, you’ll have an activity that will follow the same process we used in building The-Company. Make sure to review the code from The-Company as it will help guide you through the next task! :blush::computer:
+
+
+Hello everyone!:wave: Here are the topics we discussed today:
+DATE: August 1, 2025 (Day 5)
+Done:
+PHP + MySQL (code-along)
+The-Company
+created delete-user
+created views/delete-user.php
+created actions/delete-user.php
+created delete() method
+used logout()
+The Company Summary
+actions - collect the data from the form
+classes - the logic of the app (CRUD)
+views - User Interface (HTML, Bootstrap)
+In progress:
+PHP + MySQL ACTIVITY
+Sales OOP
+Next:
+Check Sales OOP Activity
+GIT
+Intro to Laravel
+COMPLETE CODES:
+
+
+
+I’m sharing this file with you — for Git commands.
+These are simple guides to help you with your projects. Feel free to use them as a reference!
+
+
+
+Hello everyone!:wave: Here are the topics we discussed today:
+DATE: August 4, 2025 (Day 6)
+Done:
+Git
+Laravel Setup
+Intro to Laravel
+Next:
+Route
+Controller
+View
+COMPLETE CODES:
+Note: Please unzip the zipped file first to check the code.
+
+
+
+Hello everyone!:wave: Here are the topics we discussed today:
+DATE: August 5, 2025 (Day 7)
+Done:
+Laravel
+Intro to Laravel
+MVC architecture
+Route
+new route
+route parameters
+naming routes
+name()
+route()
+Other routing methods
+post()
+patch()
+delete()
+Controller
+created PostController
+created methods
+created methods that points to a view file
+View
+created view files in resources/views
+Process
+Route --> Controller --> View
+use view() helper to open files inside resources/views
+Blade Templating
+Parent/General Layout
+Child Layout
+Conditional Directives
+Loop Directives
+Next:
+Activity about Route-Controller-View
+Migration
+Model
+Eloquent
+
+
+
+Hello everyone!:wave: Here are the topics we discussed today:
+DATE: August 7, 2025 (Day 8)
+Done:
+Migration
+is to create tables
+configure .env file for database connection
+create migrations
+rollback migrations
+Model
+is the representation of database table
+create model
+Eloquent
+Create
+save()
+create() and $fillable property
+Next:
+Eloquent
+Read
+Update
+Delete
+Constructor
+
+
+
+
+Hello everyone!:wave: Here are the topics we discussed today:
+DATE:  August 8, 2025 (Day 9)
+Done:
+Read
+all()
+find()
+findOrFail()
+where()
+operator
+get()
+latest()
+orderBy()
+take()
+Update
+save()
+Delete/Destroy
+destroy()
+Next:
+Laravel Quiz(for Review)
+To-Do App (code-along)
+
+
+
+Hi everyone! :blush:
+Next week, we’ll have a Laravel Quiz as a review. It will cover routes, controllers, views, migrations, and models. Don’t worry—it’s just to help you refresh your knowledge.
+For Eloquent CRUD, we’ll practice it together in a To-Do App code-along so you can clearly understand the process and see how Eloquent works in a real application.
+
+
+Hello everyone!:wave: Here are the topics we discussed today:
+DATE: August 11, 2025 (Day 10)
+Done:
+To-Do App (code-along)
+created laravel project
+Database connection
+created tasks migration
+created Task model
+index
+store() method
+Next:
+To-Do App (code-along)
+display all tasks
+edit
+delete
+Eloquent Relationship
+
+
+
+Hello everyone!:wave: Here are the topics we discussed today:
+DATE: August 12, 2025 (Day 11)
+Done:
+To-Do App (code-along)
+display action buttons
+edit
+delete
+Eloquent Relationships
+create phones table
+unsignedBigInteger()
+foreign()
+Next:
+Eloquent Relationships
+One to One (inverse)
+One to Many
+One to Many (inverse)
+
+
+
+Hello everyone!:wave: Here are the topics we discussed today:
+DATE: August 13, 2025 (Day 12)
+Done:
+Eloquent Relationships
+Phone ---> User
+One to One (inverse)
+belongsTo()
+User ---> Post
+One to Many
+hasMany()
+Next:
+Eloquent Relationships
+One to Many (inverse)
+Blog App (code-along)
+
+
+BLOG APP ============================================================================================
+Hello everyone!:wave: Here are the topics we discussed today:
+DATE: August 14, 2025 (Day 13)
+Done:
+Eloquent Relationships
+Post ---> User
+One to Many (Inverse)
+belongsTo()
+Blog App (code-along)
+created a new laravel project 'laravel-blog'
+Authentication with UI
+edited layouts/app
+edited layouts/login
+edited layouts/register
+Post
+created migration
+created model
+created controller
+Add Eloquent Relationship
+Post->User (One to Many inverse)
+belongsTo()
+User->Post (One to Many)
+hasMany()
+Post
+created model
+created controller
+In Progress:
+Blog App (code-along)
+
+
+
+
+Hello everyone!:wave: Here are the topics we discussed today:
+DATE: August 15, 2025 (Day 14)
+Done:
+Blog App (code-along)
+Updated the index page
+created index.blade.php
+edited routes/web.php
+edited LoginController
+edited RegisterController
+Route
+used group()
+used 'middleware' => 'auth'
+used prefix and as
+Create
+created create.blade.php
+added route
+created created()
+Store
+created store()
+created saveImage()
+1. Change the name of the image into UNIX timestamp
+2. Store the file in store/app/public/images
+FILESYSTEM_DISK=public
+added old() helper
+In Progress:
+Blog App (code-along)
+
+Hi everyone!
+I’m sharing some files that contain guides for fixing common errors in Windows. Mac users can also check—they might find some helpful tips too! :computer::hammer_and_wrench: Feel free to use them as a reference whenever you run into issues. Hope they help!
+
+
+
+Hello everyone!:wave: Here are the topics we discussed today:
+DATE: August 18, 2025 (Day 15)
+Done:
+Blog App (code-along)
+Index
+updated index() method
+updated posts/index.blade.php
+Show
+created route
+created show() method
+created /posts/show.blade.php
+display all details of the specific post
+To display the image
+asset() helper
+php artisan storage:link to create SYMBOLIC LINK
+public/storage  -------->  storage/app/public/images
+Edit
+created route
+created edit() method
+created /posts/edit.blade.php
+display all details of the specific post
+To display the image
+asset() helper
+In Progress:
+Blog App (code-along)
+
+
+
+Hello everyone!:wave: Here are the topics we discussed today:
+DATE: August 19, 2025 (Day 16)
+Done:
+Blog App (code-along)
+Update(POST)
+created route
+created update() method
+created deleteImage()
+Storage::disk('public)
+Delete(POST)
+created route
+created destroy() method
+COMMENT
+added relationships
+Post ---> User (One to Many)
+hasMany()
+Comment---> User (One to Many - Inverse)
+belongsTo()
+Store(COMMENT)
+created migrations
+created model
+created controller
+created route group
+created store() method
+created show() method
+Delete (COMMENT)
+created destroy() method
+created route
+In Progress:
+Blog App (code-along)
+
+
+
+Hello everyone!:wave: Here are the topics we discussed today:
+DATE: August 20, 2025 (Day 17)
+Done:
+Blog App (code-along)
+User
+created controller
+Show
+created show() method
+created /users/show.blade.php
+created route
+group()
+used prefix and as
+Edit
+created edit() method
+created /users/edit.blade.php
+created route
+Update
+created update() method
+validation rule
+unique:table,column,expectID
+saveAvatar() method
+deleteAvatar() method
+created route
+In progress:
+Blog App Challenge
+COMPLETE CODES:
