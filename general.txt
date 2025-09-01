@@ -1,0 +1,19 @@
+Basic Steps for Pagination in Laravel
+You can go to the link for more details: https://laravel.com/docs/11.x/pagination
+
+
+:dart: ASSIGNMENTS/HOMEWORKS
+DATE: August 1, 2025
+SUBMIT ON: August 4, 2025
+Sales OOP Activity
+
+
+END OF CLASS MESSAGES=========================================================================================
+Thank you for completing the course! Great job! :muscle: Good luck, and see you around! :sparkles:
+
+
+As we wrap up our last day of class, I just want to say thank you so much. It’s been a honor teaching you and seeing your improvement every day. 
+I know it’s difficult to grasp all the lessons, but that’s only for now. Everyone starts as a beginner and you are all capable. 
+What matters is that you don’t give up and keep making the effort to improve. 
+Always remember to appreciate errors, because without them, we wouldn’t know what else to improve. Right? 
+So, I wish you all the best in your next class and to your future goals.
