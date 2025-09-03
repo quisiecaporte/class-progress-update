@@ -1,3 +1,23 @@
+============================ THE COMPANY ============================
+
+In our next session, we’ll have a code-along discussion where we’ll create an application.
+For this, we’ll reuse some of the codes from our Minimart Catalog and update them using PHP OOP.
+
+I already expect you to be familiar with:
+
+  - Form handling (getting data from forms)
+
+  - Functions and operators
+
+  - HTML, CSS, and Bootstrap
+
+This will serve as a review of PHP, but now applied with OOP concepts.
+👉 If you have any questions, please don’t hesitate to ask!
+
+
+
+============================ LARAVEL ============================
+
 Basic Steps for Pagination in Laravel
 You can go to the link for more details: https://laravel.com/docs/11.x/pagination
 
