@@ -1,0 +1,6 @@
+This challenge will help you practice key Laravel concepts like Routes, Controllers, Blade Views, Migrations, Models, and Eloquent CRUD. It's a continuation of your Blog App, where you'll add these features.
+You’re free to use ChatGPT or other tools to help you, but please make sure to follow the constructor structure and Eloquent CRUD style we used in class. Use this challenge to review Laravel and practice fixing errors on your own. However, if you run into issues you really can't fix, feel free to ask me for help. :blush:
+8:25
+  
+For this activity, you’ll recreate the Minimart Catalog (from your Dev Standard work) using the Laravel framework. This is a great chance to apply everything you've learned so far.
+You’re free to use ChatGPT or other tools to help you, but please make sure to follow the constructor structure and Eloquent CRUD style we used in class. Take your time, and focus on building it step by step!
