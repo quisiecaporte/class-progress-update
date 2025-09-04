@@ -14,6 +14,10 @@ I already expect you to be familiar with:
 This will serve as a review of PHP, but now applied with OOP concepts.
 👉 If you have any questions, please don’t hesitate to ask!
 
+======= ACTIONS PAGE
+Actions page collects the data from the form. Inside the actions file, you can still use isset() and group multiple actions together.
+However, for our code-along, I will separate each action into its own file.
+For example, the register action will handle registration only.
 
 
 ============================ LARAVEL ============================
