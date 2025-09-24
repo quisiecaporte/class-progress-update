@@ -1,3 +1,9 @@
+============================ Homework ============================
+
+:dart: ASSIGNMENTS/HOMEWORKS
+DATE: August 7, 2025
+SUBMIT ON: August 8, 2025
+
 ============================ THE COMPANY ============================
 
 In our next session, we’ll have a code-along discussion where we’ll create an application.
