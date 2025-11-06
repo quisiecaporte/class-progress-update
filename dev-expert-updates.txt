@@ -1,0 +1,27 @@
+Hello everyone!:wave: Here are the topics we discussed today:
+DATE: October 9, 2025 (Day 4)
+DONE:
+Insta App
+Folder setup
+Auth with UI Installation
+Edit the Default Route
+Home
+edit app.blade.php
+edit login.blade.php
+edit register.blade.php
+prepare home.blade.php
+Category
+created migration
+manually add categories in database
+created model
+Post
+created migration
+created model
+CategoryPost
+created migration
+created model
+Many to Many Relationship
+pivot table
+Post --> CategoryPost <-- Category
+In progress:
+Insta App (code-along)
