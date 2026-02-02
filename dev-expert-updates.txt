@@ -1,3 +1,14 @@
+DAY 1:
+
+Since this is now the Expert Class, I already expect that all of you know the basics of Laravel—routes, controllers, views, migrations, models, and Eloquent.
+
+For our Expert Class, we will be creating an application using Laravel. Remember your blog app, right? The process will be the same, but we will be introducing new topics that you can use when creating real-world applications.
+
+I hope everyone still remembers what we covered in your Advanced Class, as we will focus more on these new topics.
+To review your Advanced Class, you will be given a pre-test.
+
+++++++++++++++++++++++++++++++++++++++++++++++
+
 Hello everyone!:wave: Here are the topics we discussed today:
 DATE: October 9, 2025 (Day 4)
 DONE:
